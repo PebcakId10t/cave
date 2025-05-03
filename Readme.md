@@ -2,7 +2,7 @@
 
 ## Controllers for AV Equipment
 
-A work in progress rewritten from my similar project in python, which has been [moved](https://github.com/PebcakCity/cavepy)
+A work in progress rewritten from my similar project in python, which has been [moved](https://github.com/PebcakId10t/cavepy)
 
 Gradually rewriting controller classes and reorganized everything into 3 projects:
 
